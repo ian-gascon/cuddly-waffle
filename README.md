@@ -1,8 +1,8 @@
 This repository illustrates a simple project directory layout. It can be copied as a template; if so, most files and information should be replaced with project files and project-specific information.
 
-# [Working project title]
+# [Seraphine]
 
-A brief description of your project here would help.
+This project aims to change the world. With our innovative predictive methods, we hope to have a better prediction score for the popularity of each song than our previous ranking method Sona 2.0. We are aware of our stage presence and will use the resources we have at our disposal to culminate this project on a high note. But, only time will tell, and we know that you could always use some more practice. Who knows? Maybe there will be an encore.
 
 ## Organization
 
